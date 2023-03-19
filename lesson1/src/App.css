@@ -1,0 +1,15 @@
+.link.active{
+  color: red;
+}
+h1{
+  display: flex;
+  justify-content: center;
+}
+.violet{
+  color:violet;
+  text-align: center;
+}
+a{
+  color: olivedrab;
+  outline: white;
+}
